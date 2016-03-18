@@ -28,7 +28,6 @@
  */
 
 /* Anagram Game Application */
-
 package com.toy.anagrams.lib;
 
 /**
@@ -37,51 +36,11 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-        "abstraction",
-        "ambiguous",
-        "arithmetic",
-        "backslash",
-        "bitmap",
-        "circumstance",
-        "combination",
-        "consequently",
-        "consortium",
-        "decrementing",
-        "dependency",
-        "disambiguate",
-        "dynamic",
-        "encapsulation",
-        "equivalent",
-        "expression",
-        "facilitate",
-        "fragment",
-        "hexadecimal",
-        "implementation",
-        "indistinguishable",
-        "inheritance",
-        "internet",
-        "java",
-        "localization",
-        "microprocessor",
-        "navigation",
-        "optimization",
-        "parameter",
-        "patrick",
-        "pickle",
-        "polymorphic",
-        "rigorously",
-        "simultaneously",
-        "specification",
-        "structure",
-        "lexical",
-        "likewise",
-        "management",
-        "manipulate",
-        "mathematics",
-        "hotjava",
-        "vertex",
-        "unsigned",
-        "traditional"};
+        "Florent",
+        "er",
+        "dårlig",
+        "mage",
+        "haha"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "batsartcoin",
