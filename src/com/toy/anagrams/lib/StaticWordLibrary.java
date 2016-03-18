@@ -41,6 +41,11 @@ final class StaticWordLibrary extends WordLibrary {
         "dårlig",
         "mage",
         "haha",
+        "Tim",
+        "Er",
+        "4/13",
+        "Alan",
+        "Er",
         "3/13",
         "mythic"
     };
