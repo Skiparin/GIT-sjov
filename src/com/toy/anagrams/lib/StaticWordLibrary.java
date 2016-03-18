@@ -42,7 +42,11 @@ final class StaticWordLibrary extends WordLibrary {
         "mage",
         "haha",
         "3/13",
-        "mythic"
+        "mythic",
+        "Yolo",
+        "Swag",
+        "Instakill",
+        "Firstkill hehe"
     };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
