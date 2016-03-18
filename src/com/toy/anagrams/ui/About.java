@@ -54,7 +54,7 @@ public class About extends JDialog {
         int x = Math.max(0, parentBounds.x + (parentBounds.width - size.width) / 2);
         int y = Math.max(0, parentBounds.y + (parentBounds.height - size.height) / 2);
         setLocation(new Point(x, y));
-        copyrightTextArea.setText("Anagrams\n\nCopyright (c) 2003  Annoying Enterprises, Inc.");
+        copyrightTextArea.setText("Anagrams\n\nCopyright (c) 2004  Annoying Enterprises, Inc.");
     }
 
     /** This method is called from within the constructor to
